@@ -1,4 +1,4 @@
-module github.com/kevin-chtw/leafx
+module github.com/dlwm/leafx
 
 go 1.16
 

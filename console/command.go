@@ -7,9 +7,9 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/kevin-chtw/leafx/chanrpc"
-	"github.com/kevin-chtw/leafx/conf"
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/chanrpc"
+	"github.com/dlwm/leafx/conf"
+	"github.com/dlwm/leafx/log"
 )
 
 var commands = []Command{

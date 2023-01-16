@@ -3,7 +3,7 @@ package mongodb_test
 import (
 	"fmt"
 
-	"github.com/kevin-chtw/leafx/db/mongodb"
+	"github.com/dlwm/leafx/db/mongodb"
 
 	"gopkg.in/mgo.v2"
 )

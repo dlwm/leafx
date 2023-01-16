@@ -3,7 +3,7 @@ package recordfile_test
 import (
 	"fmt"
 
-	"github.com/kevin-chtw/leafx/recordfile"
+	"github.com/dlwm/leafx/recordfile"
 )
 
 func Example() {

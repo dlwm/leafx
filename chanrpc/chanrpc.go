@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/kevin-chtw/leafx/conf"
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/conf"
+	"github.com/dlwm/leafx/log"
 )
 
 // one server per goroutine (goroutine not safe)

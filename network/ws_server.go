@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/dlwm/leafx/log"
 	"github.com/gorilla/websocket"
-	"github.com/kevin-chtw/leafx/log"
 )
 
 type WSServer struct {

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/kevin-chtw/leafx/chanrpc"
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/chanrpc"
+	"github.com/dlwm/leafx/log"
 )
 
 type Processor struct {

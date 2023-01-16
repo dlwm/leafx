@@ -6,7 +6,7 @@ package network
 import (
 	"sync"
 
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/log"
 )
 
 type WSHandler struct {

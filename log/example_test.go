@@ -3,7 +3,7 @@ package log_test
 import (
 	l "log"
 
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/log"
 )
 
 func Example() {

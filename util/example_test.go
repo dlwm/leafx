@@ -3,7 +3,7 @@ package util_test
 import (
 	"fmt"
 
-	"github.com/kevin-chtw/leafx/util"
+	"github.com/dlwm/leafx/util"
 )
 
 func ExampleMap() {

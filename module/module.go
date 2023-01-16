@@ -4,8 +4,8 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/kevin-chtw/leafx/conf"
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/conf"
+	"github.com/dlwm/leafx/log"
 )
 
 type Module interface {

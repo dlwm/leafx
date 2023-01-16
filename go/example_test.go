@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	g "github.com/kevin-chtw/leafx/go"
+	g "github.com/dlwm/leafx/go"
 )
 
 func Example() {

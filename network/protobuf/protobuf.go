@@ -7,8 +7,8 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/kevin-chtw/leafx/chanrpc"
-	"github.com/kevin-chtw/leafx/log"
+	"github.com/dlwm/leafx/chanrpc"
+	"github.com/dlwm/leafx/log"
 
 	"github.com/golang/protobuf/proto"
 )

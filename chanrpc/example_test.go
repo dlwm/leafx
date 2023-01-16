@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kevin-chtw/leafx/chanrpc"
+	"github.com/dlwm/leafx/chanrpc"
 )
 
 func Example() {

@@ -3,10 +3,10 @@ package module
 import (
 	"time"
 
-	"github.com/kevin-chtw/leafx/chanrpc"
-	"github.com/kevin-chtw/leafx/console"
-	g "github.com/kevin-chtw/leafx/go"
-	"github.com/kevin-chtw/leafx/timer"
+	"github.com/dlwm/leafx/chanrpc"
+	"github.com/dlwm/leafx/console"
+	g "github.com/dlwm/leafx/go"
+	"github.com/dlwm/leafx/timer"
 )
 
 type Skeleton struct {
